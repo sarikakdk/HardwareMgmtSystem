@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HardwareMgmtSystem.frmApp" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwKAAC0ACDAgAAIgQFGQokAGhggAAAgIAgAEABAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.CategoryForm" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAEABCAAABAQKICAAAACAAAEIBQAAGADAAIAAQQ=</HashCode>
+      <FileName>CategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.LoginForm" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAACAAABAgAACAAAACAAAAAAQCAEAAAgBAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.ProductForm" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEABAAAABCAIABAQKACCACACAAIEIJYAAGABBAIAAQQ=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.SellingForm" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AmIJBAAAJCGIABQAAACMBCEGQAAwko4AEEEgAYBAAQI=</HashCode>
+      <FileName>SellingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.UserForm" Collapsed="true">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAQAABABCAAQBAwCACEAAACAAgEIBwgACABAgIAAQQ=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="14.75" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HardwareMgmtSystem.BillTbl" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAEAAAAAACAAAACAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>BillTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.ReportBillLine" Collapsed="true">
+    <Position X="19.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAEAAAAAACAIAICAAAAAAAgAAAAAAAgAAA=</HashCode>
+      <FileName>ReportBillLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HardwareMgmtSystem.Splash" Collapsed="true">
+    <Position X="21.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAACAAABAAAACAAAACAAAAIAAAEAAAAABCAAA=</HashCode>
+      <FileName>Splash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
